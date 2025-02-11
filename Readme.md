@@ -1,4 +1,4 @@
-# Videotube (YouTube + Twitter Clone)
+# Videotweet (YouTube + Twitter Clone)
 
 ## Description
 Videotube is a backend project that combines features of YouTube and Twitter, built using Node.js and MongoDB. It allows users to upload videos, tweet-like posts, and interact with other users.
